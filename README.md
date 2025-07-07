@@ -1,1 +1,1 @@
-# Yt-Analysis
+A mix of my love for horror and data analysis I present to you a Youtube analysis project of my top 5 favourite horror youtubers where I used python to first scrape the data from my youtube API then use it to get the channel statistics then get the video ids for the different youtubers and get the details of their top performing videos in this analysis
